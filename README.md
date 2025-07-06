@@ -1,4 +1,4 @@
-# Datagram
+# Run Datagram Node 
 Datagram Guide Quick Setup
 - Register Datagram to run Node https://dashboard.datagram.network?ref=226553498
 - copy above
