@@ -5,5 +5,9 @@ Datagram Guide Quick Setup
 ```
 cd && mkdir data1 && cd data1 && wget -O datagram-cli https://github.com/Datagram-Group/datagram-cli-release/releases/latest/download/datagram-cli-x86_64-linux && chmod +x datagram-cli && screen -S data1 && ./datagram-cli run -- -key CHANGE_YOUR_KEY
 ```
+- Run your node
+```
+./datagram-cli run -- -key CHANGE_YOUR_KEY
+```
 - "CHANGE_YOUR_KEY" with your License Key on wallet menu
 - ctrl a+d for minimize screen
