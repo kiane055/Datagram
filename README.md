@@ -11,3 +11,8 @@ cd && mkdir data1 && cd data1 && wget -O datagram-cli https://github.com/Datagra
 ```
 - "CHANGE_YOUR_KEY" with your License Key on wallet menu
 - ctrl a+d for minimize screen
+  
+- IF erors
+```
+TMPDIR=/root ./datagram-cli run -- -key CHANGE_YOUR_KEY
+```
